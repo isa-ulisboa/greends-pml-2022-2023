@@ -18,6 +18,8 @@ The main materials for the course are:
   8. Convolutions (CNNs): This lesson is based partly on chapter 13 of the book.
   9. Data ethics: It is based partly on chapter 3 of the book.
 - Extra problems and data sets
+  1. Class #1
+    * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
 
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
