@@ -3,7 +3,7 @@ Links and exercises for the course Applied Machine Learning
 
 ---
 
-we will follow the [Practical Deep Learning course](https://course.fast.ai/).
+We will follow the [Practical Deep Learning course](https://course.fast.ai/).
 
 The main materials for the course are:
 - The online book [Deep learning for coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html);
@@ -17,3 +17,4 @@ The main materials for the course are:
   7. Collaborative filtering: This lesson is based partly on chapter 8 of the book.
   8. Convolutions (CNNs): This lesson is based partly on chapter 13 of the book.
   9. Data ethics: It is based partly on chapter 3 of the book.
+- Extra problems and data sets
