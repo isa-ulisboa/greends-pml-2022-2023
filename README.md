@@ -20,6 +20,9 @@ The main materials for the course are:
 - Extra problems and data sets
   1. Class #1
     * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
+  2. Class #2
+  3. Class #3
+    * [Hugging Face Spaces](https://huggingface.co/spaces)
 
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
