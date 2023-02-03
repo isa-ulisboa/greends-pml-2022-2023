@@ -23,7 +23,7 @@ The main materials for the course are:
   2. Class 'Getting started'
   3. Class 'Deployment'
     * [Hugging Face Spaces](https://huggingface.co/spaces)
-    * Alternative to signing up for Azzure: [Download zip file:Text files with 150 urls for grizzly, black and teddy bears]()
+    * Alternative to signing up for Azzure: [Download zip file:Text files with 150 urls for grizzly, black and teddy bears](bears_urls.zip)
 
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
