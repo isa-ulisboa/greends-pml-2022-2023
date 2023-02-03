@@ -7,7 +7,7 @@ We will follow the [Practical Deep Learning course](https://course.fast.ai/).
 
 The main materials for the course are:
 - The online book [Deep learning for coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html);
-- The lessons (videos) available at [Practical Deep Learning course](https://course.fast.ai/):
+- The lessons (videos by Jeremy Howard) available at [Practical Deep Learning course](https://course.fast.ai/):
   1. Getting started: This lesson is based partly on chapter 1 of the book.
   2. Deployment: This lesson is based partly on chapter 2 of the book.
   3. Neural net foundations: This lesson is based partly on chapter 4 of the book.
