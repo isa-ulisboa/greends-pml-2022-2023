@@ -21,12 +21,12 @@ The main materials for the course are:
 
 - Extra material
   
-  a. **Class 'Introduction'**
+  - **Session 'Introduction'**
     * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
     
-  1. **Class 'Getting started'**
+  - **Session 'Getting started'**
   
-  2. **Class 'Deployment'**
+  - **Session 'Deployment'**
     * [Hugging Face Spaces](https://huggingface.co/spaces)
     * Alternative to signing up for Azzure: [Download zip file:Text files with 150 urls for grizzly, black and teddy bears](bears_urls.zip)
 
