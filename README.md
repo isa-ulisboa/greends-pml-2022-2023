@@ -32,3 +32,4 @@ The main materials for the course are:
 
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
+- [AIquizzes](https://aiquizzes.com/)
