@@ -6,7 +6,7 @@ Links and exercises for the course Applied Machine Learning
 We will follow the [Practical Deep Learning course](https://course.fast.ai/).
 
 The main materials for the course are:
-- The online book [Deep learning for coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html);
+- The online book [Deep learning for coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html); [Gitbub repo](https://github.com/fastai/fastbook)
 
 - The lessons (videos by Jeremy Howard) available at [Practical Deep Learning course](https://course.fast.ai/):
   1. Getting started: This lesson is based partly on chapter 1 of the book.
