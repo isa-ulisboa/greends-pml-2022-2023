@@ -29,7 +29,7 @@ The main materials for the course are:
     
   - **Session 'Getting started', from JH Lesson 1**
     - Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-    - 2022 notebooks adapted to Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
+    - Notebooks adapted to Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
       - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb)
       - [Lesson1_02_saving_a_basic_fastai_model.ipynb](Lesson1_02_saving_a_basic_fastai_model.ipynb)
       - [Lesson1_03_which_image_models_are_best.ipynb](Lesson1_03_which_image_models_are_best.ipynb)
