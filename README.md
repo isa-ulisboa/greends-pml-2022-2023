@@ -7,7 +7,7 @@ The course will follow a flipped classroom model, and most of the work will be b
 
 The main materials for the course are:
 
-- Introductory video (by Jeremy Howard) [Lesson "0": Practical Deep Learning for Coders (2020 course)](https://www.youtube.com/watch?v=gGxe2mN3kAg)
+- Introductory video (by Jeremy Howard, about 1h35) [Lesson "0": Practical Deep Learning for Coders (2020 course)](https://www.youtube.com/watch?v=gGxe2mN3kAg)
 - The lessons (videos by Jeremy Howard) available at [Practical Deep Learning for Coders 2022](https://course.fast.ai/):
   1. Getting started: This lesson is based partly on chapter 1 of the book.
   2. Deployment: This lesson is based partly on chapter 2 of the book.
