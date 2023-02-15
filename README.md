@@ -19,8 +19,8 @@ The main materials for the course are:
   8. Convolutions (CNNs)
   9. Data ethics
 - Summaries of the lessons are also available at [https://course.fast.ai/](https://course.fast.ai/)
-- The notebooks for the 2022 course lessons, available at [https://github.com/fastai/course22](https://github.com/fastai/course22) 
-- The online book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
+- The notebooks for the 2022 course lessons, available at [https://github.com/fastai/course22](https://github.com/fastai/course22). Those notebooks do not cover the totality of the Python code discussed in the lessons. Some of the code is only in the book (see below).
+- The online book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html). The examples on the book are not always the examples in the lessons. 
 
 ---
 
@@ -30,12 +30,12 @@ Materials for course sessions
     * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
     
   - **Session 'Getting started', from JH Lesson 1**
-    - Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-    - Notebooks adapted to Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
+    - Video for Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+    - Notebooks adapted for Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
       - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb)
       - [Lesson1_02_saving_a_basic_fastai_model.ipynb](Lesson1_02_saving_a_basic_fastai_model.ipynb)
       - [Lesson1_03_which_image_models_are_best.ipynb](Lesson1_03_which_image_models_are_best.ipynb)
-    - Notebook for Chapter 1 of [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
+    - Notebook for Chapter 1 of the book [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
       
   - **Session 'Deployment', from JH Lesson 2**
     * [Hugging Face Spaces](https://huggingface.co/spaces)
