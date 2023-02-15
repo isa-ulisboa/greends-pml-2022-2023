@@ -3,7 +3,7 @@ Links and exercises for the course Applied Machine Learning
 
 ---
 
-We will follow the [Practical Deep Learning course](https://course.fast.ai/).
+The course will follow a flipped classroom model, and most of the work will be based on the [Practical Deep Learning course](https://course.fast.ai/).
 
 The main materials for the course are:
 
