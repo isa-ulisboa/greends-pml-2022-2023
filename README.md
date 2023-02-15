@@ -6,9 +6,9 @@ Links and exercises for the course Applied Machine Learning
 We will follow the [Practical Deep Learning course](https://course.fast.ai/).
 
 The main materials for the course are:
-- The online book [Deep learning for coders with fastai & PyTorch](https://course.fast.ai/Resources/book.html); [Gitbub repo](https://github.com/fastai/fastbook)
 
-- The lessons (videos by Jeremy Howard) available at [Practical Deep Learning course](https://course.fast.ai/):
+- Introductory video (by Jeremy Howard) [Lesson "0": Practical Deep Learning for Coders (2020 course)](https://www.youtube.com/watch?v=gGxe2mN3kAg)
+- The lessons (videos by Jeremy Howard) available at [Practical Deep Learning for Coders 2022](https://course.fast.ai/):
   1. Getting started: This lesson is based partly on chapter 1 of the book.
   2. Deployment: This lesson is based partly on chapter 2 of the book.
   3. Neural net foundations: This lesson is based partly on chapter 4 of the book.
@@ -18,6 +18,8 @@ The main materials for the course are:
   7. Collaborative filtering: This lesson is based partly on chapter 8 of the book.
   8. Convolutions (CNNs): This lesson is based partly on chapter 13 of the book.
   9. Data ethics: It is based partly on chapter 3 of the book.
+- The notebooks for the 2022 course lessons, available at [https://github.com/fastai/course22](https://github.com/fastai/course22) 
+- The online book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 
 - Extra material
   
