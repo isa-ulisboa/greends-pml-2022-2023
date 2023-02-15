@@ -3,21 +3,22 @@ Links and exercises for the course Applied Machine Learning
 
 ---
 
-The course will follow a flipped classroom model, and most of the work will be based on the [Practical Deep Learning course](https://course.fast.ai/).
+The course will follow a flipped classroom model, and most of the work will be based on the [Practical Deep Learning course](https://course.fast.ai/). During classes, the notebooks (code) will be run on Google Colab.
 
 The main materials for the course are:
 
-- Introductory video (by Jeremy Howard, about 1h35) [Lesson "0": Practical Deep Learning for Coders (2020 course)](https://www.youtube.com/watch?v=gGxe2mN3kAg)
+- Introductory video (by Jeremy Howard, about 1h35) [Lesson "0": Practical Deep Learning for Coders (2020)](https://www.youtube.com/watch?v=gGxe2mN3kAg). Optional:  instructions described in the last part of the video for installing fastai in ubuntu for a machine with NVIDIA gpu are available at [https://course20.fast.ai/start_aws](https://course20.fast.ai/start_aws)
 - The lessons (videos by Jeremy Howard) available at [Practical Deep Learning for Coders 2022](https://course.fast.ai/):
-  1. Getting started: This lesson is based partly on chapter 1 of the book.
-  2. Deployment: This lesson is based partly on chapter 2 of the book.
-  3. Neural net foundations: This lesson is based partly on chapter 4 of the book.
-  4. Natural Language (NLP): This lesson is based partly on chapter 10 of the book.
-  5. From-scratch model: This lesson is based partly on chapter 4 and chapter 9 of the book.
-  6. Random forests: This lesson is based partly on chapter 9 of the book.
-  7. Collaborative filtering: This lesson is based partly on chapter 8 of the book.
-  8. Convolutions (CNNs): This lesson is based partly on chapter 13 of the book.
-  9. Data ethics: It is based partly on chapter 3 of the book.
+  1. Getting started
+  2. Deployment
+  3. Neural net foundations
+  4. Natural Language (NLP)
+  5. From-scratch model
+  6. Random forests
+  7. Collaborative filtering
+  8. Convolutions (CNNs)
+  9. Data ethics
+- Summaries of the lessons are also available at [https://course.fast.ai/](https://course.fast.ai/)
 - The notebooks for the 2022 course lessons, available at [https://github.com/fastai/course22](https://github.com/fastai/course22) 
 - The online book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 
