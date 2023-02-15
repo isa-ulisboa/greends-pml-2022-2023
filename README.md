@@ -3,7 +3,7 @@ Links and exercises for the course Applied Machine Learning
 
 ---
 
-The course will follow a flipped classroom model, and most of the work will be based on the [Practical Deep Learning course](https://course.fast.ai/). During classes, the notebooks (code) will be run on Google Colab.
+The course will follow a flipped classroom model, and most of the work will be based on the [Practical Deep Learning course](https://course.fast.ai/). During classes, the notebooks (Python code) will be run on Google Colab.
 
 The main materials for the course are:
 
