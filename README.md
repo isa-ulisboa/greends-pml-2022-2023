@@ -22,7 +22,9 @@ The main materials for the course are:
 - The notebooks for the 2022 course lessons, available at [https://github.com/fastai/course22](https://github.com/fastai/course22) 
 - The online book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html)
 
-- Material for the course sessions
+---
+
+Materials for course sessions
   
   - **Session 'Introduction'**
     * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
