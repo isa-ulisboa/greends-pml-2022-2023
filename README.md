@@ -2,6 +2,7 @@
 Links and exercises for the course Practical Machine Learning
 
 ---
+Instructor: Manuel Campagnolo, ISA/ULisboa
 
 The course will follow a flipped classroom model, and most of the work will be based on the [Practical Deep Learning course](https://course.fast.ai/). During classes, the notebooks (Python code) will be run on Google Colab.
 
