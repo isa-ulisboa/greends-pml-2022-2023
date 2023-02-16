@@ -39,8 +39,9 @@ Materials for course sessions
       
   - **Session 'Deployment', from JH Lesson 2**
     - Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
-    - Deploy a fastai classifier on HuggingFace Spaces with Gradio [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). You can watch [this short video (8'53) that shows how I did it for the bear classifier example trained in Colab](https://www.youtube.com/watch?v=QkUyjwue3f4)
-    - To do that, you need to sign up on [Hugging Face Spaces](https://huggingface.co/spaces)
+    - Deploy a fastai classifier on HuggingFace Spaces with Gradio [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
+    - You can also watch [this short video (8'53) that shows how I did it for the bear classifier example trained in Colab](https://www.youtube.com/watch?v=QkUyjwue3f4).
+    - To do that, you need to sign up first to [HuggingFace](https://huggingface.co/spaces)
   
 
 
