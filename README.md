@@ -1,5 +1,5 @@
-# greends-aml
-Links and exercises for the course Applied Machine Learning
+# greends-pml
+Links and exercises for the course Practical Machine Learning
 
 ---
 
