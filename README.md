@@ -32,14 +32,17 @@ Materials for course sessions
   - **Session 'Getting started', from JH Lesson 1**
     - Video for Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Notebooks adapted for Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
-      - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb)
+      - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb), where one builds a classifier for images of birds and forests.
       - [Lesson1_02_saving_a_basic_fastai_model.ipynb](Lesson1_02_saving_a_basic_fastai_model.ipynb)
       - [Lesson1_03_which_image_models_are_best.ipynb](Lesson1_03_which_image_models_are_best.ipynb)
     - Notebook for Chapter 1 of the book [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
       
   - **Session 'Deployment', from JH Lesson 2**
-    * [Hugging Face Spaces](https://huggingface.co/spaces)
-    * Alternative to signing up for Azzure: [Download zip file:Text files with 150 urls for grizzly, black and teddy bears](bears_urls.zip)
+    - Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
+    - Deploy a fastai classifier on HuggingFace Spaces with Gradio [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial)
+    - To do that, you need to sign up on [Hugging Face Spaces](https://huggingface.co/spaces)
+  
+
 
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
