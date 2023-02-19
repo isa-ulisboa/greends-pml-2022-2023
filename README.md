@@ -41,8 +41,9 @@ Materials for course sessions
   - **Session 'Deployment', from JH Lesson 2**
     - Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
     - Deploy a fastai classifier on HuggingFace Spaces with Gradio [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
-    - You can also watch [this short video (8'53) that shows how I did it for the bear classifier example trained in Colab](https://www.youtube.com/watch?v=QkUyjwue3f4).
     - To do that, you need to sign up first to [HuggingFace](https://huggingface.co/spaces)
+    - You can also watch [this short video (8'53) that shows how I deployed the bear classifier example trained in Colab on HuggingFace Places using Gradio](https://www.youtube.com/watch?v=QkUyjwue3f4).
+    
   
   - **Session 'Natural Language (NLP)', from JH Lesson 4**
     - Try the examples on the notobook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
