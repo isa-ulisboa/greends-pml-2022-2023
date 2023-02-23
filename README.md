@@ -53,3 +53,4 @@ Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
 - [AIquizzes](https://aiquizzes.com/)
 - [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [Harvard CS50 | Introduction to programming with Python free course](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
