@@ -30,23 +30,25 @@ Materials for course sessions
   - **Session 'Introduction'**
     * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
     
-  - **Session 'Getting started', from JH Lesson 1**
-    - Video for Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+  - **Session 'Getting started'** (to do before class on February 24)
+    - Watch video: Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Notebooks adapted for Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
       - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb), where one builds a classifier for images of birds and forests.
       - [Lesson1_02_saving_a_basic_fastai_model.ipynb](Lesson1_02_saving_a_basic_fastai_model.ipynb)
       - [Lesson1_03_which_image_models_are_best.ipynb](Lesson1_03_which_image_models_are_best.ipynb)
     - Notebook for Chapter 1 of the book [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
       
-  - **Session 'Deployment', from JH Lesson 2**
+  - **Session 'Deployment'** (to do before class of March 3rd)
+    - Watch video: Lesson 2 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
     - Deploy a fastai classifier on HuggingFace Spaces with Gradio [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
     - To do that, you need to sign up first to [HuggingFace](https://huggingface.co/spaces)
     - You can also watch [this short video (8'53) that shows how I deployed the bear classifier example trained in Colab on HuggingFace Places using Gradio](https://www.youtube.com/watch?v=QkUyjwue3f4).
     
   
-  - **Session 'Natural Language (NLP)', from JH Lesson 4**
-    - Try the examples on the notobook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
+  - **Session 'Natural Language (NLP)'**
+    - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+    - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
 
 
 Some other useful links:
