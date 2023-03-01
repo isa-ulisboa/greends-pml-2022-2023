@@ -57,3 +57,4 @@ Some other useful links:
 - [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv): L5-9'07 (1st deep CNN diagram); 16' (input+kernel CNN); 21':23' (layers 1+2, activation maps, depth); 32'40 (stride);L5-34'54 (zero-pad); 45' (#parameters); 46' (common settings); 55',56' (pooling layer); 1:01' (FC layer); 1:06' (demo url); 1:07'30 (summary, trend)
 - [Notes for the Stanford course on Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [Harvard CS50 | Introduction to Programming with Python free course](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
+- [Walk with Fastai free version tutorial](https://walkwithfastai.com/)
