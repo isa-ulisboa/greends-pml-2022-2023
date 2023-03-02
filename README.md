@@ -46,11 +46,22 @@ Materials for course sessions
     
   - **Session 'Neural net foundations'** (to do before March 10th class)
     - Watch video: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+    - Links suggested in the [2022 course lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
+      - Notebooks (not Colab) for this lesson:
+        - [HuggingFace Spaces Pets repository](https://huggingface.co/spaces/jph00/pets/tree/main)
+        - [Which image models are best?](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
+        - [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
+      - Other resources for the lesson
+        - Titanic spreadsheet: see the [course repository](https://github.com/fastai/course22)
+        - Titanic data (training CSV) can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/)
+      - [Solutions ](https://forums.fast.ai/t/fastbook-chapter-4-questionnaire-solutions-wiki/67253) to chapter 4 questions from the book
     - Notebooks that follow approximately the video:
-      - (optional) Comparison of image models (video at 13'45): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
-      - How des a network really work? (video at 23'45) [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
-        - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to tensors and to PyTorch in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
-        - The second part of the notebook is about **Stochastic Gradient Descent** with some simple examples of one variable functions (the video after 25' discusses similar examples).  
+      - (Optional) Comparison of image models (video at 13'45): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
+      - How does a network really work? (video at 23'45) [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb)
+    - (Optional) Edited notebook for Chapter 4 of the book [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
+        - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to **tensors** and to **PyTorch** in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
+        - The second part of the notebook is about **Stochastic Gradient Descent** with some simple examples of one variable functions. 
+        
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
