@@ -55,12 +55,12 @@ Materials for course sessions
         - Titanic spreadsheet: see the [2002 course repository Excel files](https://github.com/fastai/course22/tree/master/xl)
         - **Titanic data** (training CSV) can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/)
       - [Solutions ](https://forums.fast.ai/t/fastbook-chapter-4-questionnaire-solutions-wiki/67253) to chapter 4 questions from the book
-    - Notebooks that follow approximately the video:
+    - Colab notebooks that follow approximately the video:
       - (Optional) Comparison of image models (video from ~14' ): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
       - Notebook: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
     - (Optional) Edited notebook for Chapter 4 of the book [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
-        - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to **tensors** and to **PyTorch** in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
-        - The second part of the notebook is about **Stochastic Gradient Descent** with some simple examples of one variable functions. 
+        - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to *tensors* and to *PyTorch* in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
+        - The second part of the notebook is about *Stochastic Gradient Descent* with some simple examples of one variable functions. 
         
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
