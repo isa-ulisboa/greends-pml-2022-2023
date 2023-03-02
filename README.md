@@ -46,9 +46,11 @@ Materials for course sessions
     
   - **Session 'Neural net foundations'** (to do before March 10th class)
     - Watch video: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-    - Notebooks:
-      - Comparison of image models (video 13'45): [Lesson_03_which_image_models_are_best.ipynb](Lesson_03_which_image_models_are_best.ipynb)
-  
+    - Notebooks that follow approximately the video:
+      - (optional) Comparison of image models (video at 13'45): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
+      - How des a network really work? (video at 23'45) [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
+        - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to tensors and to PyTorch in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
+        - The second part of the notebook is about **Stochastic Gradient Descent** with some simple examples of one variable functions (the video after 25' discusses similar examples).  
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
