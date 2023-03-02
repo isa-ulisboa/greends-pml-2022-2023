@@ -38,26 +38,26 @@ Materials for course sessions
     - Notebook for Chapter 1 of the book [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
       
   - **Session 'Deployment'** (to do before March 3rd class)
-    - Watch video: Lesson 2 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-    - Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
-    - Deploy a fastai classifier on HuggingFace Spaces with Gradio [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
+    - **Watch video**: Lesson 2 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+    - **Notebook**: Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
+    - **Deploy a fastai classifier on HuggingFace Spaces with Gradio** [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
     - To do that, you need to sign up first to [HuggingFace](https://huggingface.co/spaces)
     - You can also watch [this short video (8'53) that shows how I deployed the bear classifier example trained in Colab on HuggingFace Places using Gradio](https://www.youtube.com/watch?v=QkUyjwue3f4).
     
   - **Session 'Neural net foundations'** (to do before March 10th class)
-    - Watch video: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-    - Links suggested in the [2022 course lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
+    - **Watch video**: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+    - Links suggested in the [2022 course repository lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
       - Notebooks (not Colab) for this lesson:
         - [HuggingFace Spaces Pets repository](https://huggingface.co/spaces/jph00/pets/tree/main)
         - [Which image models are best?](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
         - [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
       - Other resources for the lesson
-        - Titanic spreadsheet: see the [course repository](https://github.com/fastai/course22)
-        - Titanic data (training CSV) can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/)
+        - Titanic spreadsheet: see the [2002 course repository Excel files](https://github.com/fastai/course22/tree/master/xl)
+        - **Titanic data** (training CSV) can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/)
       - [Solutions ](https://forums.fast.ai/t/fastbook-chapter-4-questionnaire-solutions-wiki/67253) to chapter 4 questions from the book
     - Notebooks that follow approximately the video:
       - (Optional) Comparison of image models (video from ~14' ): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
-      - **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implmented in Pytorch. It also describes and discusses the *ReLu* function.
+      - Notebook: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
     - (Optional) Edited notebook for Chapter 4 of the book [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
         - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to **tensors** and to **PyTorch** in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
         - The second part of the notebook is about **Stochastic Gradient Descent** with some simple examples of one variable functions. 
@@ -74,3 +74,4 @@ Some other useful links:
 - [Notes for the Stanford course on Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [Harvard CS50 | Introduction to Programming with Python free course](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - [Walk with Fastai free version tutorial](https://walkwithfastai.com/)
+- [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
