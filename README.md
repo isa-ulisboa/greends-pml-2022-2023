@@ -35,7 +35,6 @@ Materials for course sessions
     - Notebooks adapted for Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
       - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb), where one builds a classifier for images of birds and forests.
       - [Lesson1_02_saving_a_basic_fastai_model.ipynb](Lesson1_02_saving_a_basic_fastai_model.ipynb)
-      - [Lesson1_03_which_image_models_are_best.ipynb](Lesson1_03_which_image_models_are_best.ipynb)
     - Notebook for Chapter 1 of the book [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
       
   - **Session 'Deployment'** (to do before March 3rd class)
@@ -45,6 +44,10 @@ Materials for course sessions
     - To do that, you need to sign up first to [HuggingFace](https://huggingface.co/spaces)
     - You can also watch [this short video (8'53) that shows how I deployed the bear classifier example trained in Colab on HuggingFace Places using Gradio](https://www.youtube.com/watch?v=QkUyjwue3f4).
     
+  - **Session 'Neural net foundations'** (to do before March 10th class)
+    - Watch video: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+    - Notebooks:
+      - Comparison of image models (video 13'45): [Lesson_03_which_image_models_are_best.ipynb](Lesson_03_which_image_models_are_best.ipynb)
   
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
