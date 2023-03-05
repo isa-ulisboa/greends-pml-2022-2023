@@ -20,7 +20,7 @@ The main materials for the course are:
   8. Convolutions (CNNs)
   9. Data ethics
 - Summaries of the lessons are also available at [https://course.fast.ai/](https://course.fast.ai/)
-- The notebooks for the 2022 course lessons, available at [https://github.com/fastai/course22](https://github.com/fastai/course22). Those notebooks do not cover the totality of the Python code discussed in the lessons. Some of the code is only in the book (see below).
+- The notebooks for the 2022 course lessons, available at [https://github.com/fastai/course22](https://github.com/fastai/course22-web/tree/master/Lessons): look for lesson#.qmd file that lists the resources for the corresponding lesson. 
 - The online book [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/Resources/book.html). The examples on the book are not always the examples in the lessons. 
 
 ---
