@@ -54,7 +54,7 @@ Materials for course sessions
       - Other resources for the lesson
         - Titanic spreadsheet: see the [2002 course repository Excel files](https://github.com/fastai/course22/tree/master/xl)
         - **Titanic data** (training CSV) can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/)
-      - [Solutions ](https://forums.fast.ai/t/fastbook-chapter-4-questionnaire-solutions-wiki/67253) to chapter 4 questions from the book
+      - [Solutions](https://forums.fast.ai/t/fastbook-chapter-4-questionnaire-solutions-wiki/67253) to chapter 4 questions from the book
     - Colab notebooks that follow approximately the video:
       - (Optional) Comparison of image models (video from ~14' ): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
       - Notebook: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
@@ -62,6 +62,17 @@ Materials for course sessions
         - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to *tensors* and to *PyTorch* in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
         - The second part of the notebook is about *Stochastic Gradient Descent* with some simple examples of one variable functions. 
         
+  - **Session 'From-scratch model'** (to do before March 17th: notice that the order of lessons 4 and 5 is switched)
+    - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+    - Links suggested in the [2022 course repository lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
+      - Notebooks (not Colab) for this lesson:
+        - [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
+        - [Why you should use a framework](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
+        - [ How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
+    - Colab notebooks that follow approximately the video:
+
+
+
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
