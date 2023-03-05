@@ -43,6 +43,7 @@ Materials for course sessions
     - **Deploy a fastai classifier on HuggingFace Spaces with Gradio** [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
     - To do that, you need to sign up first to [HuggingFace](https://huggingface.co/spaces)
     - You can also watch [this short video (8'53) that shows how I deployed the bear classifier example trained in Colab on HuggingFace Places using Gradio](https://www.youtube.com/watch?v=QkUyjwue3f4). Suggestion: in the colab notebook and `app.py`, comment (with #) or remove line of code `img = PILImage.create(img)` in the definition of `predict` since the output of `PILImage.create` misses some needed properties. 
+    - The notebook [tests/read_model_launch_gradio_in_colab.ipynb](tests/read_model_launch_gradio_in_colab.ipynb) is similar to `app.py` and shows how you can test it first on Colab before you deploy it on HuggingFace Spaces.  
     
   - **Session 'Neural net foundations'** (to do before March 10th class)
     - **Watch video**: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
