@@ -65,13 +65,12 @@ Materials for course sessions
         
   - **Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
     - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/), at least up to 58'25'' (submitting results to Kaggle)
-    - Links suggested in the [2022 course repository lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
-      - Notebooks (not Colab) for this lesson:
-        - [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
-    - Colab notebooks that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): foloows the video up to 1:15'30''
+    - Colab notebook that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30''
     - In case you had trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
     - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. For instance, there is a recent data set on ''Can you predict if a Mushroom is poisonous or edible?''.
 
+  - **Session 'From-scratch model' (part 2)** (to do before March 24th)
+    - **Watch the remainder part of the video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/)
 
 
   - **Session 'Natural Language (NLP)'**
