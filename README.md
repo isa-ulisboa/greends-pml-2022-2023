@@ -63,14 +63,15 @@ Materials for course sessions
         - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to *tensors* and to *PyTorch* in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
         - The second part of the notebook is about *Stochastic Gradient Descent* with some simple examples of one variable functions. 
         
-  - **Session 'From-scratch model'** (to do before March 17th: notice that the order of lessons 4 and 5 is switched)
+  - **Session 'From-scratch model'** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
     - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Links suggested in the [2022 course repository lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
       - Notebooks (not Colab) for this lesson:
         - [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
         - [Why you should use a framework](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
         - [ How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
-    - Colab notebooks that follow approximately the video:
+    - Colab notebooks that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb)
+    - In case you had trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
 
 
 
