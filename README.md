@@ -63,15 +63,14 @@ Materials for course sessions
         - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to *tensors* and to *PyTorch* in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
         - The second part of the notebook is about *Stochastic Gradient Descent* with some simple examples of one variable functions. 
         
-  - **Session 'From-scratch model'** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
-    - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+  - **Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
+    - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/), at least up to 58'25'' (submitting results to Kaggle)
     - Links suggested in the [2022 course repository lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
       - Notebooks (not Colab) for this lesson:
         - [Linear model and neural net from scratch](https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch)
-        - [Why you should use a framework](https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework)
-        - [ How random forests really work](https://www.kaggle.com/code/jhoward/how-random-forests-really-work/)
-    - Colab notebooks that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb)
+    - Colab notebooks that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): foloows the video up to 1:15'30''
     - In case you had trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
+    - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. For instance, there is a recent data set on ''Can you predict if a Mushroom is poisonous or edible?''.
 
 
 
