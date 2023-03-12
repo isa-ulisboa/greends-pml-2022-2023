@@ -51,13 +51,12 @@ Materials for course sessions
            
   - **Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
     - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/), **at least up to 58'25''** (submitting results to Kaggle)
-    - **Colab notebook** that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30'', but you only need to follow up to (video ~58'25'')
-    - In case you had trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
-    - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. For instance, there is a recent data set on ''Can you predict if a Mushroom is poisonous or edible?''.
+    - **Colab notebook** that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30'', but you only need to follow up to the end of the section 'Submitting results to Kaggle' (video ~58'25'').
+    - In case you have trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
+    - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. 
 
   - **Session 'From-scratch model' (part 2)** (to do before March 24th)
     - **Watch the remainder part of the video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/)
-
 
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
@@ -74,7 +73,7 @@ Some other useful links:
 - [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
 
 ---
-Aditional (optional) notebooks:
+Additional (optional) notebooks:
 - Comparison of image models (video from ~14' ): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
 - Edited notebook for Chapter 4 of the book [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
         - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to *tensors* and to *PyTorch* in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
