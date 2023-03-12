@@ -47,11 +47,11 @@ Materials for course sessions
     
   - **Session 'Neural net foundations'** (to do before March 10th class)
     - **Watch video**: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) **at least from ~23' to ~49'**.
-    - Colab notebooks for that part of the video: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
+    - **Colab notebook** for that part of the video: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
            
   - **Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
     - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/), **at least up to 58'25''** (submitting results to Kaggle)
-    - **Colab notebook** that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30'', but you only need to follow up to the end of the section 'Submitting results to Kaggle' (video ~58'25'').
+    - **Colab notebook** for the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30'', but you only need to follow up to the end of the section 'Submitting results to Kaggle' (video ~58'25'').
     - In case you have trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
     - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. 
 
