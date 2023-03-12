@@ -46,26 +46,12 @@ Materials for course sessions
     - The notebook [tests/read_model_launch_gradio_in_colab.ipynb](tests/read_model_launch_gradio_in_colab.ipynb) is similar to `app.py` and shows how you can test it first on Colab before you deploy it on HuggingFace Spaces.  
     
   - **Session 'Neural net foundations'** (to do before March 10th class)
-    - **Watch video**: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-    - Links suggested in the [2022 course repository lessons](https://github.com/fastai/course22-web/tree/master/Lessons):
-      - Notebooks (not Colab) for this lesson:
-        - [HuggingFace Spaces Pets repository](https://huggingface.co/spaces/jph00/pets/tree/main)
-        - [Which image models are best?](https://www.kaggle.com/code/jhoward/which-image-models-are-best/)
-        - [How does a neural net really work?](https://www.kaggle.com/code/jhoward/how-does-a-neural-net-really-work)
-      - Other resources for the lesson
-        - Titanic spreadsheet: see the [2002 course repository Excel files](https://github.com/fastai/course22/tree/master/xl)
-        - **Titanic data** (training CSV) can be downloaded from [Kaggle](https://www.kaggle.com/competitions/titanic/)
-      - [Solutions](https://forums.fast.ai/t/fastbook-chapter-4-questionnaire-solutions-wiki/67253) to chapter 4 questions from the book
-    - Colab notebooks that follow approximately the video:
-      - (Optional) Comparison of image models (video from ~14' ): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
-      - Notebook: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
-    - (Optional) Edited notebook for Chapter 4 of the book [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
-        - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to *tensors* and to *PyTorch* in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
-        - The second part of the notebook is about *Stochastic Gradient Descent* with some simple examples of one variable functions. 
-        
+    - **Watch video**: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) **at least from ~23' to ~49'**.
+    - Colab notebooks for that part of the video: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
+           
   - **Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
     - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/), **at least up to 58'25''** (submitting results to Kaggle)
-    - **Colab notebook** that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30''
+    - **Colab notebook** that follow approximately the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30'', but you only need to follow up to (video ~58'25'')
     - In case you had trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
     - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. For instance, there is a recent data set on ''Can you predict if a Mushroom is poisonous or edible?''.
 
@@ -77,7 +63,7 @@ Materials for course sessions
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
 
-
+---
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
 - [AIquizzes](https://aiquizzes.com/)
@@ -86,3 +72,10 @@ Some other useful links:
 - [Harvard CS50 | Introduction to Programming with Python free course](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - [Walk with Fastai free version tutorial](https://walkwithfastai.com/)
 - [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
+
+---
+Aditional (optional) notebooks:
+- Comparison of image models (video from ~14' ): [Lesson3_which_image_models_are_best.ipynb](Lesson3_which_image_models_are_best.ipynb)
+- Edited notebook for Chapter 4 of the book [Lesson3_edited_book_04_mnist_basics.ipynb](Lesson3_edited_book_04_mnist_basics.ipynb). 
+        - The first part of the notebook uses the MNIST data set (MNIST contains images of handwritten digits) and provides an introduction to *tensors* and to *PyTorch* in particular. This introduction includes a discussion about shapes and dimensions, loss (dissimilarity), broadcasting, etc. That first part of the notebook *is not* discused in the video. 
+        - The second part of the notebook is about *Stochastic Gradient Descent* with some simple examples of one variable functions. 
