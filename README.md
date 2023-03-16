@@ -52,10 +52,11 @@ Materials for course sessions
   - **Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
     - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/), **at least up to 58'25''** (submitting results to Kaggle)
     - **Colab notebook** for the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30'', but you only need to follow up to the end of the section 'Submitting results to Kaggle' (video ~58'25'').
-    - In case you have trouble choosing the right Titanic data set from Kaggle, use train.csv from [titanic.zip](titanic.zip)
+    - In case you have trouble choosing the right Titanic data set from Kaggle, use `train.csv` from [titanic.zip](titanic.zip). This zip file also includes a file with extension `.ts` which can be loaded with `torch.load` and contains the numeric data matrix *X*  and the 0/1 response variable *y*.
     - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. 
 
-  - **Session 'From-scratch model' (part 2)** (to do before March 24th)
+  - **Session 'From-scratch model' (part 2)** 
+    - **Work on the notebook** [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
     - **Watch the remainder part of the video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/)
 
   - **Session 'Natural Language (NLP)'**
