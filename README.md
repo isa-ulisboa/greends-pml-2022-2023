@@ -61,6 +61,8 @@ Materials for course sessions
       - We will need to look at [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb), mostly the last part (Perceptron and Feed-forward neural network)
       - You will use the last part of [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb), about adapting the one layer model to the deep learning model.
     
+  - **Session convolutional neural networks** (to do before March 31th)
+    - **watch video** for Lesson 5 of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (aprox. 1:08')
 
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
