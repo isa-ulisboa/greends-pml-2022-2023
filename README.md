@@ -62,7 +62,7 @@ Materials for course sessions
       - You will use the last part of [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb), about adapting the one layer model to the deep learning model.
     
   - **Session convolutional neural networks** (to do before March 31th)
-    - **watch video** for Lesson 5 of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (aprox. 1:08')
+    - **Watch video** of Lesson 5 of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (aprox. 1:08'). Some contents of the video: 9'07 (1st deep CNN diagram); 16' (input+kernel CNN); 21':23' (layers 1+2, activation maps, depth); 32'40 (stride); 34'54 (zero-pad); 45' (#parameters); 46' (common settings); 55'-56' (pooling layer); 1:01' (fully connected layer); 1:06' (demo url); 1:07'30 (summary, trend).
 
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
