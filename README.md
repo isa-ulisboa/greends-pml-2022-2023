@@ -27,17 +27,17 @@ The main materials for the course are:
 
 Materials for course sessions
   
-  - **Session 'Introduction'**
+  - **(1) Session 'Introduction'**
     * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
     
-  - **Session 'Getting started'** (to do before February 24 class)
+  - **(2) Session 'Getting started'** (to do before February 24 class)
     - Watch video: Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Notebooks adapted for Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
       - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb), where one builds a classifier for images of birds and forests.
       - [Lesson1_02_saving_a_basic_fastai_model.ipynb](Lesson1_02_saving_a_basic_fastai_model.ipynb)
     - Notebook for Chapter 1 of the book [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
       
-  - **Session 'Deployment'** (to do before March 3rd class)
+  - **(3) Session 'Deployment'** (to do before March 3rd class)
     - **Watch video**: Lesson 2 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - **Notebook**: Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
     - **Deploy a fastai classifier on HuggingFace Spaces with Gradio** [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
@@ -45,23 +45,23 @@ Materials for course sessions
     - You can also watch [this short video (8'53) that shows how I deployed the bear classifier example trained in Colab on HuggingFace Places using Gradio](https://www.youtube.com/watch?v=QkUyjwue3f4). Suggestion: in the colab notebook and `app.py`, comment (with #) or remove line of code `img = PILImage.create(img)` in the definition of `predict` since the output of `PILImage.create` misses some needed properties. 
     - The notebook [tests/read_model_launch_gradio_in_colab.ipynb](tests/read_model_launch_gradio_in_colab.ipynb) is similar to `app.py` and shows how you can test it first on Colab before you deploy it on HuggingFace Spaces.  
     
-  - **Session 'Neural net foundations'** (to do before March 10th class)
+  - **(4) Session 'Neural net foundations'** (to do before March 10th class)
     - **Watch video**: Lesson 3 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) **at least from ~23' to ~49'**.
     - **Colab notebook** for that part of the video: **How does a network really work?** (video from ~23' to ~49') [Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb](Lesson3_edited_04-how-does-a-neural-net-really-work.ipynb). Uses a simple example (single variable function) to describe what we call the *loss*, what is *stochastic gradient descent* and how it can be implemented in Pytorch. It also describes and discusses the *ReLu* function.
            
-  - **Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
+  - **(5) Session 'From-scratch model' (part 1)** (to do before March 17th: notice that Lesson 4 is postponed to a later date, so we move on to Lesson 5)
     - **Watch video**: Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/), **at least up to 58'25''** (submitting results to Kaggle)
     - **Colab notebook** for the video: [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb): follows the video up to 1:15'30'', but you only need to follow up to the end of the section 'Submitting results to Kaggle' (video ~58'25'').
     - In case you have trouble choosing the right Titanic data set from Kaggle, use `train.csv` from [titanic.zip](titanic.zip). This zip file also includes a file with extension `.ts` which can be loaded with `torch.load` and contains the numeric data matrix *X*  and the 0/1 response variable *y*.
     - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. 
 
-  - **Session 'From-scratch model' (part 2)** (to do before March 24th)
+  - **(6) Session 'From-scratch model' (part 2)** (to do before March 24th)
     - **Watch the remainder part of the video** 58'25''- 1:15'30'': Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/)
     - **Do assignment** [assignments/assignment_due_march_24.ipynb](assignments/assignment_due_march_24.ipynb)
       - We will need to look at [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb), mostly the last part (Perceptron and Feed-forward neural network)
       - You will use the last part of [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb), about adapting the one layer model to the deep learning model.
     
-  - **Session convolutional neural networks** (to do before March 31th)
+  - **(7) Session convolutional neural networks** (to do before March 31th)
     - **Watch video** of Lesson 5 of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (aprox. 1:08'). Some contents of the video: 9'07 (1st deep CNN diagram); 16' (input+kernel CNN); 21':23' (layers 1+2, activation maps, depth); 32'40 (stride); 34'54 (zero-pad); 45' (#parameters); 46' (common settings); 55'-56' (pooling layer); 1:01' (fully connected layer); 1:06' (demo url); 1:07'30 (summary, trend).
 
   - **Session 'Natural Language (NLP)'**
