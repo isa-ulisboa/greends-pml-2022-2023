@@ -8,6 +8,7 @@ The course will follow a flipped classroom model, and most of the work will be b
 
 The main materials for the course are:
 
+- [Overview notebook](ML_overview_with_examples.ipynb) 
 - Introductory video (by Jeremy Howard, about 1h35) [Lesson "0": Practical Deep Learning for Coders (2020)](https://www.youtube.com/watch?v=gGxe2mN3kAg). Optional:  instructions described in the last part of the video for installing fastai in ubuntu for a machine with NVIDIA gpu are available at [https://course20.fast.ai/start_aws](https://course20.fast.ai/start_aws)
 - The lessons (videos by Jeremy Howard) available at [Practical Deep Learning for Coders 2022](https://course.fast.ai/):
   1. Getting started
@@ -55,14 +56,16 @@ Materials for course sessions
     - In case you have trouble choosing the right Titanic data set from Kaggle, use `train.csv` from [titanic.zip](titanic.zip). This zip file also includes a file with extension `.ts` which can be loaded with `torch.load` and contains the numeric data matrix *X*  and the 0/1 response variable *y*.
     - Start thinking about getting your own tabular data set for a classification problem. If you want, you can look at [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) for data sets that you find interesting. 
 
-  - **(6) Session 'From-scratch model' (part 2)** (to do before March 24th)
-    - **Watch the remainder part of the video** 58'25''- 1:15'30'': Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/)
-    - **Do assignment** [assignments/assignment_due_march_24.ipynb](assignments/assignment_due_march_24.ipynb)
-      - We will need to look at [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb), mostly the last part (Perceptron and Feed-forward neural network)
+  - **(6) Session 'From-scratch model' (part 2)** 
+    - Overview of the course with notebook [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb) up to the Perceptron model.
+    - (to do before March 24th) **Watch the remainder part of the video** 58'25''- 1:15'30'': Lesson 5 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/)
+    - (to do before March 24th) **Do assignment** [assignments/assignment_due_march_24.ipynb](assignments/assignment_due_march_24.ipynb)
+      - You will need to look at [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb), mostly the last part (Perceptron and Feed-forward neural network)
       - You will use the last part of [Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb](Lesson5_edited_for_colab_linear_model_and_neural_net_from_scratch.ipynb), about adapting the one layer model to the deep learning model.
     
-  - **(7) Session convolutional neural networks** (to do before March 31th)
-    - **Watch video** of Lesson 5 of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (aprox. 1:08'). Some contents of the video: 9'07 (1st deep CNN diagram); 16' (input+kernel CNN); 21':23' (layers 1+2, activation maps, depth); 32'40 (stride); 34'54 (zero-pad); 45' (#parameters); 46' (common settings); 55'-56' (pooling layer); 1:01' (fully connected layer); 1:06' (demo url); 1:07'30 (summary, trend).
+  - **(7) Session convolutional neural networks** 
+    - Revision on how to adapt Perceptron code (with mini-batch) in [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb) to create code from scratch for a feed-forward multi-layer neural network. This is necessary to answer part 2 of [assignments/assignment_due_march_24.ipynb](assignments/assignment_due_march_24.ipynb).
+    - (do before March 31th) **Watch video** of Lesson 5 of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (aprox. 1:08'). Some contents of the video: 9'07 (1st deep CNN diagram); 16' (input+kernel CNN); 21':23' (layers 1+2, activation maps, depth); 32'40 (stride); 34'54 (zero-pad); 45' (#parameters); 46' (common settings); 55'-56' (pooling layer); 1:01' (fully connected layer); 1:06' (demo url); 1:07'30 (summary, trend).
 
   - **Session 'Natural Language (NLP)'**
     - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
