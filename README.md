@@ -72,7 +72,7 @@ Materials for course sessions
     - Brief explanation of residual units for `resnet` models -- details can be found in video of Lesson 9 (47'--1h03') of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
     - Brief description of Encoder/Decoder architectures for image segmentation problems; the Unet model.
     - (to do before April 14):
-      - **Watch video** about image segmentation  of Lesson 11 (up to 32'53) of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv). Video includes what is semantic segmentation, downsampling; upsampling; transpose convolution.
+      - **Watch video** about image segmentation  of Lesson 11 (from 8' up to 32'53) of [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv). Video includes what is semantic segmentation, downsampling; upsampling; transpose convolution.
       - (optional, but recommended) If you want to try to do an image segmentation yourself using a Unet, run [Image_Segmentation_with_Unet.ipynb](Image_Segmentation_with_Unet.ipynb).
 
   - **Session 'Natural Language (NLP)'**
