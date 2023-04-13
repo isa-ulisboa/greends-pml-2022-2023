@@ -77,7 +77,7 @@ Materials for course sessions
 
 - **(9) Session convolutional neural networks (conclusion); tabular data; feature engineering; categorial embeddings**
   - U-Net for image segmentation: example and comments in [Image_Segmentation_with_Unet.ipynb](Image_Segmentation_with_Unet.ipynb).
-  - Tabular data; feature engineering; categorial embeddings [fast_ai_titanic.ipynb]
+  - Tabular data; feature engineering; categorial embeddings [fast_ai_titanic.ipynb](fast_ai_titanic.ipynb)
   - (to do before April 21):
     - **Watch overview video** for topics already studied in class on 11:33 - Why deep learning?; 14:48 - The perceptron; 20:06 - Perceptron example; 23:14 - From perceptrons to neural networks; 29:34 - Applying neural networks; 32:29 - Loss functions; 35:12 - Training and gradient descent; 40:25 - Backpropagation; 44:05- Setting the learning rate; 48:09 - Batched gradient descent; 51:25 - Regularization: dropout and early stopping [MIT 6.S191: Introduction to Deep Learning 2023 edition](https://www.youtube.com/watch?v=QDX-1M5Nj7s).
 
