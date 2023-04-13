@@ -82,9 +82,9 @@ Materials for course sessions
     - **Watch overview video** for topics already studied in class on 11:33 - Why deep learning?; 14:48 - The perceptron; 20:06 - Perceptron example; 23:14 - From perceptrons to neural networks; 29:34 - Applying neural networks; 32:29 - Loss functions; 35:12 - Training and gradient descent; 40:25 - Backpropagation; 44:05- Setting the learning rate; 48:09 - Batched gradient descent; 51:25 - Regularization: dropout and early stopping [MIT 6.S191: Introduction to Deep Learning 2023 edition](https://www.youtube.com/watch?v=QDX-1M5Nj7s).
 
 
-  - **Session 'Natural Language (NLP)'**
-    - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-    - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
+- **Session 'Natural Language (NLP)'**
+  - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
+  - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
 
 ---
 Some other useful links:
