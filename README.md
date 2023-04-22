@@ -17,8 +17,8 @@ The main materials for the course are:
 - Other Machine Learning resources:
   - [MIT 6.S191: Introduction to Deep Learning (2023)](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) and [Notes for the Stanford course on Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+  - [Machine Learning Full Course led by Andrew Ng (2020)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). Led by Andrew Ng, this course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control.
   
-
 ---
 
 Materials for course sessions
@@ -79,7 +79,7 @@ Materials for course sessions
 - **(10) Fundamentals of decision and regression trees; Ensembles of classifiers**
   - Example of how to build a decision tree with `scikit-learn` (iris data) [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
   - (to do before April 28):
-    - **Watch  video** 
+    - **Watch  video** about [Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10)
 
 
 - **Session 'Natural Language (NLP)'**
