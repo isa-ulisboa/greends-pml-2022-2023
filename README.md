@@ -76,6 +76,11 @@ Materials for course sessions
   - (to do before April 21):
     - **Watch overview video** for topics already studied in class on 11:33 - Why deep learning?; 14:48 - The perceptron; 20:06 - Perceptron example; 23:14 - From perceptrons to neural networks; 29:34 - Applying neural networks; 32:29 - Loss functions; 35:12 - Training and gradient descent; 40:25 - Backpropagation; 44:05- Setting the learning rate; 48:09 - Batched gradient descent; 51:25 - Regularization: dropout and early stopping [MIT 6.S191: Introduction to Deep Learning 2023 edition](https://www.youtube.com/watch?v=QDX-1M5Nj7s).
 
+- **(10) Fundamentals of decision and regression trees; Ensembles of classifiers
+  - Example of a decision tree with `scikit-learn` (iris data) [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
+  - (to do before April 28):
+    - **Watch  video** 
+
 
 - **Session 'Natural Language (NLP)'**
   - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
@@ -85,8 +90,6 @@ Materials for course sessions
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
 - [AIquizzes](https://aiquizzes.com/)
-- [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv): *Lesson 5* 9'07 (1st deep CNN diagram); 16' (input+kernel CNN); 21':23' (layers 1+2, activation maps, depth); 32'40 (stride); 34'54 (zero-pad); 45' (#parameters); 46' (common settings); 55'-56' (pooling layer); 1:01' (FC layer); 1:06' (demo url); 1:07'30 (summary, trend)
-- [Notes for the Stanford course on Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 - [Harvard CS50 | Introduction to Programming with Python free course](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 - [Walk with Fastai free version tutorial](https://walkwithfastai.com/)
 - [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
