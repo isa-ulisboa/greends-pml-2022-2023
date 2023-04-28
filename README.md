@@ -18,6 +18,7 @@ The main materials for the course are:
   - [MIT 6.S191: Introduction to Deep Learning (2023)](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [Stanford Lecture Collection | Convolutional Neural Networks for Visual Recognition (2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) and [Notes for the Stanford course on Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
   - [Machine Learning Full Course led by Andrew Ng (2020)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). Led by Andrew Ng, this course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control.
+  - [Broderick: Machine Learning, MIT 6.036 Fall 2020](https://www.youtube.com/watch?v=ZOiBe-nrmc4); [Full lecture information and slides](http://tamarabroderick.com/ml.html)
   
 ---
 
@@ -76,10 +77,16 @@ Materials for course sessions
   - (to do before April 21):
     - **Watch overview video** for topics already studied in class on 11:33 - Why deep learning?; 14:48 - The perceptron; 20:06 - Perceptron example; 23:14 - From perceptrons to neural networks; 29:34 - Applying neural networks; 32:29 - Loss functions; 35:12 - Training and gradient descent; 40:25 - Backpropagation; 44:05- Setting the learning rate; 48:09 - Batched gradient descent; 51:25 - Regularization: dropout and early stopping [MIT 6.S191: Introduction to Deep Learning 2023 edition](https://www.youtube.com/watch?v=QDX-1M5Nj7s).
 
-- **(10) Fundamentals of decision and regression trees; Ensembles of classifiers**
+- **(10) Fundamentals of classification and regression trees; Ensembles of classifiers**
   - Example of how to build a decision tree with `scikit-learn` (iris data) [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
+  - Q6
   - (to do before April 28):
     - **Watch  video** about [Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10). You might want to skip 43'--47'50 on runtime and 1h15 to the end about boosting.
+
+- **(11) Decision and regression trees; Ensembles of classifiers; Random Forests**
+  - Overview on decision trees [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
+  - (to do before April 28):
+    - **Watch  video** [MIT: Machine Learning 6.036, Lecture 12: Decision trees and random forests (Fall 2020) ](https://www.youtube.com/watch?v=ZOiBe-nrmc4): how to split the tree (24'50-37'20); Construct tree (up to 55'50); regularize and pruning (up to 1:07'); Ensemble methods (up to 1:20').
 
 
 - **Session 'Natural Language (NLP)'**
