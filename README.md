@@ -85,7 +85,7 @@ Materials for course sessions
 
 - **(11) Decision and regression trees; Ensembles of classifiers; Random Forests**
   - Overview on decision trees [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
-  - (to do before April 28):
+  - (to do before May 5):
     - **Watch  video** [MIT: Machine Learning 6.036, Lecture 12: Decision trees and random forests (Fall 2020) ](https://www.youtube.com/watch?v=ZOiBe-nrmc4): how to split the tree (24'50-37'20); Construct tree (up to 55'50); regularize and pruning (up to 1:07'); Ensemble methods (up to 1:20').
 
 
