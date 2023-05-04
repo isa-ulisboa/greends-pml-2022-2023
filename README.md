@@ -87,12 +87,13 @@ Materials for course sessions
   - Overview on decision trees [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
   - (to do before May 5):
     - **Watch  video** [MIT: Machine Learning 6.036, Lecture 12: Decision trees and random forests (Fall 2020) ](https://www.youtube.com/watch?v=ZOiBe-nrmc4): how to split the tree (24'50-37'20); Construct tree (up to 55'50); regularize and pruning (up to 1:07'); Ensemble methods (up to 1:20').
+    - Submit project proposal.
 
-
-- **Session 'Natural Language (NLP)'**
-  - Watch video: Lesson 4 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
-  - Try the examples on the notebook [https://github.com/google/trax](https://github.com/google/trax): Run a pre-trained Transformer (English-German translator); Build a sentiment classification model from IMDB reviews.
-
+- **(12) Assessing ML performance**
+  - Confuson matrix, accuracy metrics, cross-validation, the ROC curve and AUC [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
+  - (to do before May 12):
+    - **Watch  video** [Stanford CS229: Machine Learning (Autumn 2018), Lecture 8: Data Splits, Models & Cross-Validation](https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8): Bias, variance, regularization (up to 19'), Other way of thinking of regularization; comparing algorithms  (37'45 to 1.02); small data sets; k-fold validation; leave-one-out (up to 1:17); feature selection (intro). You can skip from 19' to 37'45.
+  
 ---
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
