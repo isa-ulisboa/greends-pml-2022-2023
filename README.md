@@ -81,7 +81,7 @@ Materials for course sessions
   - Example of how to build a decision tree with `scikit-learn` (iris data) [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
   - Q6
   - (to do before April 28):
-    - **Watch  video** about [Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10). You might want to skip 43'--47'50 on runtime and 1h15 to the end about boosting.
+    - **Watch  video** about [Lecture 10 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10). You might want to skip 43'--47'50 on runtime and 1h15 to the end about boosting.
 
 - **(11) Decision and regression trees; Ensembles of classifiers; Random Forests**
   - Overview on decision trees [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
