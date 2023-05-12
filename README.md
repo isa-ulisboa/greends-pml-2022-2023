@@ -90,10 +90,16 @@ Materials for course sessions
     - Submit project proposal.
 
 - **(12) Assessing ML performance**
+  - Q7
   - Confuson matrix, accuracy metrics, cross-validation, the ROC curve and AUC [ML_overview_with_examples.ipynb](ML_overview_with_examples.ipynb)
   - (to do before May 12):
     - **Watch  video** [Stanford CS229: Machine Learning (Autumn 2018), Lecture 8: Data Splits, Models & Cross-Validation](https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8): Bias, variance, regularization (up to 19'), Other way of thinking of regularization; comparing algorithms  (37'45 to 1.02); small data sets; k-fold validation; leave-one-out (up to 1:17); feature selection (intro). You can skip from 19' to 37'45.
   
+- **(13) Searching for the best model**
+  - Q8 and correction of Q7
+  - Techniques for searching a good model: [A difficult classification problem: the Portuguese wine quality data set](select_best_model_wine_classification.ipynb)
+  - (to do before May 19):
+    - **Watch  video** [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn](https://www.youtube.com/watch?v=IXZKgIsZRm0)
 ---
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
