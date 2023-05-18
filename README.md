@@ -27,14 +27,14 @@ Materials for course sessions
   - **(1) Session 'Introduction'**
     * Run [this notebook](test_GPU.ipynb) to compare CPU with CPU+GPU (try it in Colab: first, go to menu 'runtime/change runtime type' in Colab and choose GPU as hardware accelarator)
     
-  - **(2) Session 'Getting started'** (to do before February 24 class)
+  - **(2) Session 'Getting started'** (to do before February 24)
     - Watch video: Lesson 1 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - Notebooks adapted for Colab from [https://github.com/fastai/course22](https://github.com/fastai/course22):
       - [Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb](Lesson1_00_is_it_a_bird_creating_a_model_from_your_own_data.ipynb), where one builds a classifier for images of birds and forests.
       - [Lesson1_02_saving_a_basic_fastai_model.ipynb](Lesson1_02_saving_a_basic_fastai_model.ipynb)
     - Notebook for Chapter 1 of the book [Deep Learning for Coders with Fastai and PyTorch](https://course.fast.ai/Resources/book.html)
       
-  - **(3) Session 'Deployment'** (to do before March 3rd class)
+  - **(3) Session 'Deployment'** (to do before March 3rd)
     - **Watch video**: Lesson 2 of [Practical Deep Learning for Coders 2022](https://course.fast.ai/) 
     - **Notebook**: Edited notebook for Chapter 2 of the book [Lesson2_edited_book_02_production.ipynb](Lesson2_edited_book_02_production.ipynb), where one builds and improve a classifier for bears.
     - **Deploy a fastai classifier on HuggingFace Spaces with Gradio** [https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial](https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial). 
@@ -97,9 +97,14 @@ Materials for course sessions
   
 - **(13) Searching for the best model**
   - Q8 and correction of Q7
-  - Techniques for searching a good model: [A difficult classification problem: the Portuguese wine quality data set](select_best_model_wine_classification.ipynb)
+  - Techniques for searching a good model [A difficult classification problem: the Portuguese wine quality data set (extended)](select_best_model_wine_classification_extended.ipynb)
   - (to do before May 19):
     - **Watch  video** [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn](https://www.youtube.com/watch?v=IXZKgIsZRm0)
+
+- **(14) Other ensemble methods; feature importance**
+  - Ensemble models and feature importance: [A difficult classification problem: the Portuguese wine quality data set (extended)](select_best_model_wine_classification_extended.ipynb)
+  - (to do before May 26): Read [Ensemble methods with scikit-learn](https://scikit-learn.org/stable/modules/ensemble.html#)
+    
 ---
 Some other useful links:
 - [fastai documentation](https://docs.fast.ai/)
