@@ -104,7 +104,7 @@ Materials for course sessions
 - **(14) Projects**
   - The class was used to advance on the class' projects.
   - (to do before May 26): Read the following sources. The idea is to focus on three ensemble methods: random forests, Adaboost and Gradient boosting (and its evolution XGBoost), and understand the main similarities and differences between them. You don't need to go into details and you can skip extra contents.
-    - Read review article [Ensemble learning: a survey (2018)](docs/WIREs Data Min Knowl - 2018 - Sagi - Ensemble learning A survey.pdf)
+    - Read review article [Ensemble learning: a survey (2018)](docs/Sagi_2018_Ensemble_learning_A_survey_Wire.pdf)
     - Read [Ensemble methods with scikit-learn (scikit-learn documentation)](https://scikit-learn.org/stable/modules/ensemble.html#)
 
 - **(15) Other ensemble methods; feature importance**
