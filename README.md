@@ -101,9 +101,15 @@ Materials for course sessions
   - (to do before May 19):
     - **Watch  video** [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn](https://www.youtube.com/watch?v=IXZKgIsZRm0)
 
-- **(14) Other ensemble methods; feature importance**
+- **(14) Projects**
+  - The class was used to advance on the class' projects.
+  - (to do before May 26): Read the following sources. The idea is to focus on three ensemble methods: random forests, Adaboost and Gradient boosting (and its evolution XGBoost), and understand the main similarities and differences between them. You don't need to go into details and you can skip extra contents.
+    - Read review article [Ensemble learning: a survey (2018)](docs/WIREs Data Min Knowl - 2018 - Sagi - Ensemble learning A survey.pdf)
+    - Read [Ensemble methods with scikit-learn (scikit-learn documentation)](https://scikit-learn.org/stable/modules/ensemble.html#)
+
+- **(15) Other ensemble methods; feature importance**
   - Ensemble models and feature importance: [A difficult classification problem: the Portuguese wine quality data set (extended)](select_best_model_wine_classification_extended.ipynb)
-  - (to do before May 26): Read [Ensemble methods with scikit-learn](https://scikit-learn.org/stable/modules/ensemble.html#)
+  
     
 ---
 Some other useful links:
